@@ -4,3 +4,9 @@
 /People$2Student.class
 /Animal.class
 /Dog.class
+/TelePhone.class
+/CellPhone.class
+/CellPhone$Animal.class
+/Cat.class
+/CellPhone$Animal$Cat.class
+/Zoo.class
